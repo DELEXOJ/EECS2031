@@ -1,0 +1,19 @@
+mainA= 1
+mainB= 20000
+x=1
+y=20000
+mainA= No symbol "mainA" in current context. 
+The reason is because mainA is not defined in the swap method
+mainB=No symbol "mainB" in current context
+The reason is because mainA is not defined in the swap method
+x=20000
+y=1
+Are x and y swap? Yes
+mainA=1
+mainB=20000
+Are mainA and mainB swap? NO because we used pass by value in the main function
+so it does not affect the value of mainA and mainB.
+x=No symbol "x" in current context
+The reason is because x is not defined in the main method
+y=No symbol "y" in current context
+The reason is because y is not defined in the main method

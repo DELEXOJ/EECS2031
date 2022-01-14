@@ -1,0 +1,2 @@
+# of chars: 41
+# of char 'a': 4
