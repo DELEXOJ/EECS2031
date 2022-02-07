@@ -1,9 +1,6 @@
 /***************************************
  * EECS2031ON – Lab6 *
- * Author: OJO, AYOBAMI*
- * Email: ayobami1@my.yorku.ca *
- * eecs_num: ayobami1*
- * Yorku #: 215281421
+ * 
  ****************************************/
 // Inputs a list of strings from the keyboard, sorts t
 /* and then displays them on the screen. */
