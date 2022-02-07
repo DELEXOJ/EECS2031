@@ -11,12 +11,7 @@ https://secretariat-policies.info.yorku.ca/policies/academic-honesty-senate-poli
 and I am well aware of the seriousness of the matter and the penalties that I will face as a 
 result of committing plagiarism in this assignment.
 
-BY FILLING THE GAPS,YOU ARE SIGNING THE ABOVE STATEMENTS.
-
- Full Name: AYOBAMI ESTHER OJO
- Student Number: 215281421
- Course Section: EECS 2031 N
- eecs user id: ayobami1
+BY FILLING THE GAPS,YOU ARE SIGNING THE
 */
 
 #include<stdio.h>
