@@ -1,9 +1,4 @@
-/***************************************
- * EECS2031ON – Lab3 *
- * Author: Ojo, Ayobami *
- * Email: ayobami1@my.yorku.ca *
- * eecs_username: ayobami1 *
- * york_num: 215281421 *
+/*********************
  ****************************************/
 
 #include <stdio.h>
