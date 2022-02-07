@@ -1,10 +1,5 @@
 /***********************************
- * CSE2031 - Lab 6
- * Filename: lab6LLX.c
- * Author: OJO, AYOBAMI
- * Email: ayobami1@my.yorku.ca
- * cse_num: Your cse number
- * Yorku #: 215281421
+ * 
  ************************************/
 
 #include <stdio.h>
