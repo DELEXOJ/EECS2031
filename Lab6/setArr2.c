@@ -1,9 +1,4 @@
-/***************************************
- * EECS2031ON – Lab6 *
- * Author: OJO, AYOBAMI*
- * Email: ayobami1@my.yorku.ca *
- * eecs_num: ayobami1*
- * Yorku #: 215281421
+/********************
  ****************************************/
  #include <stdio.h>
 
