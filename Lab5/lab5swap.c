@@ -1,11 +1,6 @@
 #include <stdio.h>
 
-/***************************************
- * EECS2031ON – Lab5 *
- * Author: OJO, AYOBAMI*
- * Email: ayobami1@my.yorku.ca *
- * eecs_num: ayobami1*
- * Yorku #: 215281421
+/********************
  ****************************************/
 
 void swapIncre(int *x, int *y, int *z);
